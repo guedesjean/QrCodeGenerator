@@ -1,0 +1,5 @@
+package com.jeandev.qrcode.generator.dto;
+
+public record QrCodeGenerateRequest(String text) {
+
+}
